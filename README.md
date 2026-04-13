@@ -1,35 +1,37 @@
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/f3f44d73-2851-4aac-8440-c367403366ce" />
 
-## Hey there! 😁
+<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" />
 
-I'm Udayakumar, an AI & Full Stack Developer based in India.
+## 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚! 😁
 
-I build intelligent systems and modern web applications that solve real-world problems.
+I'm **Udayakumar**, a developer who enjoys `learning`, `building`, and `improving` every day.
+> Learning by building, one project at a time.
 
-If an idea sparks, I turn it into a working product.
+I like turning ideas into real-world applications — especially things that are practical, useful, and well-designed.
 
-My core stack includes React, JavaScript, Tailwind CSS, Firebase, and Java.  
-I also work with Python and explore AI/ML to build smarter, data-driven solutions.
+If something sparks my interest, I explore it deeply and try to build something meaningful out of it.
 
-I've worked on a range of impactful projects — from finance dashboards to AI-powered platforms and system-level applications.
+I work with technologies like React, JavaScript, Python, and Java.  
+I also explore Python and concepts around AI to understand how systems can become smarter and more efficient.
+
+Over time, I’ve worked on different kinds of projects — from finance dashboards to AI-based platforms and system-level applications.
 
 Some of my favorite builds:
 
-- Smart Personal Finance Dashboard for real-time expense tracking and insights  
-- Nexus AI — a Generative AI platform for personalized career growth and skill mapping  
-- Crypto-Audit — an AI engine for cryptographic analysis and security verification  
+- **Smart Personal Finance Dashboard** — real-time expense tracking & insights  
+- **Nexus AI** — personalized career growth platform  
+- **Crypto-Audit** — AI-based cryptographic security analysis
 
-I’ve solved 450+ problems on LeetCode and consistently work on improving my problem-solving and system design skills.
 
-I enjoy building systems that are not just functional, but efficient, scalable, and user-focused.
+I’ve solved 450+ problems on LeetCode and continue to improve my problem-solving and thinking approach.
 
-If you're working on something exciting, I’d love to collaborate.
+I enjoy building things that are simple, scalable, and actually useful.
+
+If you're working on something interesting, I’d be happy to connect and learn together.
 
 ---
+### 😉 Fun Facts:
 
-### Fun Facts:
-
-- I prefer building over just learning  
-- I enjoy solving complex logical problems  
-- Clean UI + strong backend = my kind of project  
-- Always exploring AI + real-world applications 🚀
+- I enjoy the process of learning as much as building  
+- I like breaking down complex problems into simple solutions  
+- Clean design and good logic always stand out to me  
+- Always curious about how things work 🚀
