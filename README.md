@@ -1,6 +1,6 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/f3f44d73-2851-4aac-8440-c367403366ce" />
 
-## Hey there! 👋
+## Hey there! 😁
 
 I'm Udayakumar, an AI & Full Stack Developer based in India.
 
